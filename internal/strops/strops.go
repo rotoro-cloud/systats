@@ -3,7 +3,7 @@ package strops
 import (
 	"strconv"
 
-	"github.com/dhamith93/systats/internal/logger"
+	"github.com/rotoro-cloud/systats/internal/logger"
 )
 
 func ToUint64(input string) uint64 {
