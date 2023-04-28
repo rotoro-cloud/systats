@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dhamith93/systats/internal/logger"
+	"github.com/rotoro-cloud/systats/internal/logger"
 )
 
 // ReadFile read from given file
