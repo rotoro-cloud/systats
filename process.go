@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dhamith93/systats/exec"
-	"github.com/dhamith93/systats/internal/fileops"
+	"github.com/rotoro-cloud/systats/exec"
+	"github.com/rotoro-cloud/systats/internal/fileops"
 )
 
 // Process holds information on single process
