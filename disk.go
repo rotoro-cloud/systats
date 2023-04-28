@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dhamith93/systats/exec"
+	"github.com/rotoro-cloud/systats/exec"
 )
 
 // Disk holds information on single disk
