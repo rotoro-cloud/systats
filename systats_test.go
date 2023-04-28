@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dhamith93/systats"
-	"github.com/dhamith93/systats/exec"
+	"github.com/rotoro-cloud/systats"
+	"github.com/rotoro-cloud/systats/exec"
 )
 
 func TestGetMemoryKB(t *testing.T) {
